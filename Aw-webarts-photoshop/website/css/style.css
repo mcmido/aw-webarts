@@ -1,6 +1,17 @@
 #wrapper{width:1100px;  min-height:500px; margin:0 auto;  padding:0 50px;border:solid 1px #ccc}
 
-#header{height:235px; width:1100px;background:url(../../awwebarts/site/images/header_bg.jpg) top right no-repeat;}
+#header{height:235px; width:1100px;background:url(../images/aw-webarts-new_02.jpg) top right no-repeat;}
 
 #logo{margin-top:60px;height:118px;width:285px;float:left;}
 #logo img{width:285px;height:118px;}
+
+#menu{float:left;width:1100px;height:41px;margin-top:15px;background: #333333;border-radius: 12px;}
+#menu ul{float: left;}
+#menu ul li{float:left;min-width: 95px;padding:0 17px;line-height: 40px;}
+#menu ul li a{text-decoration: none;color:#fff;font-family: verdana,  Geneva, sans-serif;font-size:14px;}
+
+#menu h1{font-size:14px;  font-family: verdana,  Geneva, sans-serif;height:41px;  line-height: 40px;  color: #fff;float:left; margin-left:50px;}
+
+#s-links{float:right;margin-right:17px;height:41px;}
+#s-links h1{margin-right:20px;}
+#s-links img{margin-left:5px;}
