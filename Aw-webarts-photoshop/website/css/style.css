@@ -1,5 +1,5 @@
-#wrapper{width:1100px;  min-height:1500px; margin:0 auto;  padding:0 50px;border:solid 1px #ccc}
-
+#wrapper{width:1100px;  min-height:1200px; margin:0 auto;  padding:0 50px;  background: #fff;}
+html{background: #282828;}
 #header{height:235px; width:1100px;background:url(../images/aw-webarts-new_02.jpg) top right no-repeat;}
 
 #logo{margin-top:60px;height:118px;width:285px;float:left;}
@@ -16,9 +16,13 @@
 #s-links h1{margin-right:20px;}
 #s-links img{margin-left:5px;}
 
+/* Contents */
+
+#contents{width:1100px;min-height:500px;float:left;padding-top:15px;}
+
 /*sidebar starts here*/
 
-#sidebar {width:260px;float: left;min-height:400px;margin-top:15px;}
+#sidebar {width:260px;float: left;min-height:400px;}
 .sidebar-holder{width:260px;float: left;}
 .sidebar-head{width:260px;  height:50px;background: url(../images/head-side.png) no-repeat; float:left; margin-top:10px;  text-align: center;}
 .sidebar-body{width:240px;height:235px;;background-color: #eaeaea;margin-left:10px;border-top-right-radius: 10px;border-top-left-radius: 10px;}
@@ -43,7 +47,7 @@
 
 /*main-contents*/
 
-#main-contents{width:820px;min-height: 500px;margin:15px 0 0 20px;float: right;}
+#main-contents{width:820px;min-height: 500px;margin:0 0 0 20px;float: right;}
 
 #slide {width:820px;height:330px;background:#eaeaea;text-align:center;}
 
@@ -64,3 +68,15 @@
 .project-holder a{text-decoration: underline;color: #cb0030;font-family: verdana,  Geneva, sans-serif;text-align:justify;font-size:12px;float:right;}
 
 /* Footer */
+
+#footer{margin-left:-50px;float:left;padding-top:118px;padding-left:50px;width:1150px;height:357px;background: url(../images/footer.png) no-repeat top;margin-top:30px; clear: both;}
+
+#send{float: left;width:250px;min-height:232px;margin-bottom: 47px;}
+#send input[Type="text"]{padding:5px;margin-bottom: 10px;float:left;width:240px;height:15px;background: #f0f0f0;border-radius: 5px;border:0px;}
+#send textarea{padding:5px;width:240px;height:90px;background: #f0f0f0;border-radius: 5px;border:0px;}
+#send input[Type="submit"]{width:150px;height:35px;background: #f0f0f0;border-radius: 5px;border:0px;margin-top:10px;}
+
+#footer-contacts{float:right;font-family: verdana,  Geneva, sans-serif;color:#fff;width:770px;font-size: 14px;}
+#footer-contacts a{text-decoration: underline;color:#fff;padding-top:10px;float:left;}
+#footer-contacts img{float:left;margin-right:15px;margin-top:30px;}
+#footer-contacts div{float:right;margin-right:50px;}
