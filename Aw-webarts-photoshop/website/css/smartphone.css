@@ -1,0 +1,19 @@
+/*
+520
+640
+ */
+#wrapper{width:300px;  min-height:1200px; margin:0 auto;  padding:0 10px;  background: #f1f1f1;}
+#header{height:235px; width:320px;background:none;}
+
+#logo{margin-top:30px;margin-bottom:30px;height:50px;width:285px;float:left;text-align: center;}
+#logo img{width:60%;height:auto;}
+
+#menu{float:left;width:300px;height:auto;margin-top:none;background:none;border-radius: none;}
+#menu ul{float: none;}
+#menu ul li{float:none;min-width: 100px;padding:0 17px;line-height: 40px;background: #333;margin:10px;}
+#menu ul li a{text-decoration: none;color:#fff;font-family: verdana,  Geneva, sans-serif;font-size:14px;}
+
+#menu h1{font-size:14px;  font-family: verdana,  Geneva, sans-serif;height:41px;  line-height: 40px;  color: #fff;float:left; margin-left:50px;}
+
+
+

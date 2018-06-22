@@ -1,5 +1,7 @@
 #wrapper{width:1100px;  min-height:1200px; margin:0 auto;  padding:0 50px;  background: #fff;}
-html{background: #282828;}
+
+html{background: #89939C;}
+
 #header{height:235px; width:1100px;background:url(../images/aw-webarts-new_02.jpg) top right no-repeat;}
 
 #logo{margin-top:60px;height:118px;width:285px;float:left;}
@@ -69,7 +71,7 @@ html{background: #282828;}
 
 /* Footer */
 
-#footer{margin-left:-50px;float:left;padding-top:118px;padding-left:50px;width:1150px;height:357px;background: url(../images/footer.png) no-repeat top;margin-top:30px; clear: both;}
+#footer{margin-left:-50px;padding-top:118px;padding-left:50px;width:1150px;height:357px;background: url(../images/footer.png) no-repeat top;margin-top:30px; clear: both;}
 
 #send{float: left;width:250px;min-height:232px;margin-bottom: 47px;}
 #send input[Type="text"]{padding:5px;margin-bottom: 10px;float:left;width:240px;height:15px;background: #f0f0f0;border-radius: 5px;border:0px;}
